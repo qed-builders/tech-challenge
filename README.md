@@ -22,6 +22,8 @@ You can use any 3rd-party libraries as necessary or desired, but we prefer the u
 
 ## Coding Standard
 
+We are interested to see how you work as well, as what your final results are; include useful Git commit messages and comments where you think your code may be unclear.
+
 Please return to us your solution, including all the files you would like to share within 5 working days.
 If you have any questions, please feel free to contact us.
 
