@@ -8,7 +8,7 @@ Using the [Weather API](https://www.weatherapi.com) and [Geolocation API](https:
 
 ## Tech Stack
 
-As long as the solution is built using web technologies, you can use any tools you like (at QED, we mostly use `React` with `styled-components`).
+As long as the solution is built using web technologies, you can use any tools you like (at QED, we use `React`).
 
 ## Browser Support
 
@@ -25,4 +25,4 @@ You can use any 3rd-party libraries as necessary or desired, but we prefer the u
 Please return to us your solution, including all the files you would like to share within 5 working days.
 If you have any questions, please feel free to contact us.
 
-We hope you enjoy this and happy coding!
+We hope you enjoy this and happy coding! 🍀
