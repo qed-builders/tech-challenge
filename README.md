@@ -1,10 +1,10 @@
-# Tech challenge 🌤
+# Tech challenge
 
 > QED frontend tech challenge
 
 ## Overview
 
-Using the [Weather API](https://www.weatherapi.com) and [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API), build an application that will display the forecast for the current location. The main page should display the days of the week, along with the forecasted temperature.
+Using the [Weather API](https://www.weatherapi.com) and [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API), build an application that will display the forecast for the current location. The main page should display the 7 days of the week (Mon-Sun), along with the forecasted temperature.
 
 ## Tech Stack
 
