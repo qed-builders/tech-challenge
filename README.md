@@ -4,7 +4,7 @@
 
 ## Overview
 
-Using the [Weather API](https://www.weatherapi.com) and [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API), build an application that will display forecast for current location. The main page should display the days of the week, along with the forecasted temperature.
+Using the [Weather API](https://www.weatherapi.com) and [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API), build an application that will display the forecast for the current location. The main page should display the days of the week, along with the forecasted temperature.
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ You can use any 3rd-party libraries as necessary or desired, but we prefer the u
 
 ## Coding Standard
 
-Please return to us your solution, including all the files you would like to share within 3 days.
+Please return to us your solution, including all the files you would like to share within 5 working days.
 If you have any questions, please feel free to contact us.
 
 We hope you enjoy this and happy coding!
