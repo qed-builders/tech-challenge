@@ -6,7 +6,7 @@
 
 [The Doggies](https://etherscan.io/token/0xc7df86762ba83f2a6197e1ff9bb40ae0f696b9e6) is one of the most popular The Sandbox Game NFT collection created on the Ethereum Network.
 
-For this challenge you will create a simple UI that will be able to interact with the Ethereum Blockchain, using `Web3.js` and the `Vue2` (or `Nuxt`) library.
+For this challenge you will create a simple UI that will be able to interact with the Ethereum Blockchain, using `Web3.js` and the `Vue2` library or `Nuxt` framework.
 This UI will allow the user to type in a Doggie ID, and will display information about that Doggie.
 
 > Given the address for the The Doggies Smart Contract:
