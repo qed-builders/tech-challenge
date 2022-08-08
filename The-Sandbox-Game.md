@@ -27,7 +27,7 @@ Write a unit test that you consider relevant, using the unit test framework of y
 
 Feel free to customize the styles as you wish or use any extra libraries that you need. You will get extra points for using SCSS+BEM and aesthetics.
 
-![image](https://user-images.githubusercontent.com/5159921/183446460-6e32034f-4397-4c83-a9aa-a19d96083aa5.png)
+<img src="https://user-images.githubusercontent.com/5159921/183446460-6e32034f-4397-4c83-a9aa-a19d96083aa5.png" width="540" />
 
 ## Browser Support
 
