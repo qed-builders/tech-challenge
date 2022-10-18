@@ -2,6 +2,8 @@
 
 > The Sandbox junior frontend tech challenge
 
+![The-Sandbox-Game-Junior](https://user-images.githubusercontent.com/5159921/196346665-4433e43e-9920-4bf2-aab8-15bdf259dfc3.jpg)
+
 ## Overview
 
 Your challenge is to build out this form and get it looking as close to the design as possible.
