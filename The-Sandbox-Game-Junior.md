@@ -26,7 +26,7 @@ Your users should be able to:
 Your task is to build out the project to the designs inside the `/design` folder. A JPG file is provided for you to work with.
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
 
-You will find all the required assets in the `/assets` folder.
+You will find all the required assets in the `/design/assets` folder.
 This design uses the `font-family` [Montserrat](https://fonts.google.com/specimen/Montserrat).
 
 ## Coding Standard
